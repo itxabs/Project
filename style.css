@@ -40,6 +40,33 @@ border-style: groove;
 
 
 
-.pagesbanner{
-    background-image: url("https://amymhaddad.s3.amazonaws.com/morocco-blue.png");
+.About{
+    background-image: url(Images/About\ Page\ Image.jpg);
+    background-color: rgba(0, 0, 0, 0.274);
+    height: 400px;
+   width: 100%;
+}
+
+.page-title{
+
+    
+    margin: auto;
+    margin-top: 10%;
+    vertical-align: middle;
+    text-align: center;
+    color: white;
+    
+   
+}
+.setion-title-2 h4{
+    /* font-size: 40px;
+    text-align: start;
+    color:black;
+    font-weight: bold; */
+    font-size: 50px;
+    line-height: 50px;
+    font-weight: 600;
+    color: #29282d;
+    padding: 40px 0;
+    margin: 0;
 }
